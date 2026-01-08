@@ -1,0 +1,1 @@
+import{z as t,D as e}from"./index-Dg6OSMVy.js";function l(i){return t("MuiDivider",i)}const s=e("MuiDivider",["root","absolute","fullWidth","inset","middle","flexItem","light","vertical","withChildren","withChildrenVertical","textAlignRight","textAlignLeft","wrapper","wrapperVertical"]);export{s as d,l as g};
