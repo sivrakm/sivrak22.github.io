@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sriperumaldepot/sw.js', { scope: '/sriperumaldepot/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/SPD/sw.js', { scope: '/SPD/' })})}
